@@ -1,5 +1,11 @@
 title: Abdelrahman Zeidan
 logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
+
 theme: jekyll-theme-minimal
+
+custom_styles: >
+  <style>
+    h1.site-title {
+      font-size: 1.8rem;
+    }
+  </style>
