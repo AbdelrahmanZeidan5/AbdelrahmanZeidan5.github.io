@@ -13,9 +13,13 @@
     {% include head-custom.html %}
 
     <style>
+      /* Adjusted font size for the name */
       h1 {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
+        text-align: center;
       }
+
+      /* Styling the contact info section */
       .contact-info {
         text-align: center;
         margin-top: 20px;
@@ -25,7 +29,11 @@
         padding: 0;
       }
       .contact-info li {
-        margin: 5px 0;
+        display: inline-block;
+        margin-right: 15px;
+      }
+      .contact-info li:last-child {
+        margin-right: 0; /* No extra space for the last item */
       }
       .contact-info a {
         text-decoration: none;
@@ -34,21 +42,36 @@
       .contact-info a:hover {
         text-decoration: underline;
       }
+
+      /* Center logo */
+      img {
+        display: block;
+        margin: 0 auto;
+      }
     </style>
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <!-- Updated title font size and alignment -->
+        <h1>
+          <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
+        </h1>
 
+        <!-- Centered logo -->
         {% if site.logo %}
           <img src="{{ site.logo | relative_url }}" alt="Logo" />
         {% endif %}
 
+        <!-- Contact info block with inline style adjustments -->
         <div class="contact-info">
           <ul>
-            <li><strong>Email:</strong> <a href="mailto:abdelrahman.zeidan@outlook.com">abdelrahman.zeidan@outlook.com</a></li>
-            <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/abdelrahman-zeidan">linkedin.com/in/abdelrahman-zeidan</a></li>
+            <li>
+              <strong>Email:</strong> <a href="mailto:abdelrahman.zeidan@outlook.com">abdelrahman.zeidan@outlook.com</a>
+            </li>
+            <li>
+                <a href="https://linkedin.com/in/abdelrahman-zeidan">LinkedIn</a>
+            </li>
           </ul>
         </div>
 

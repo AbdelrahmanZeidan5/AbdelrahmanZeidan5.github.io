@@ -3,10 +3,12 @@
 ---
 
 ## Education
-- **M.S., Computer Science** | Northeastern University (_December 2024, GPA: 4.0/4.0_)
-- **B.E., Engineering** | London South Bank University (_June 2018, GPA: 4.0/4.0_)
+- <span style="font-size: 1rem;">**M.S. Computer Science** | Northeastern University (_December 2024, GPA: 4.0/4.0_)</span>
+- <span style="font-size: 1rem;">**B.E. Engineering** | London South Bank University (_June 2018, GPA: 4.0/4.0_)</span>
 
 ---
+
+
 
 ## Technical Skills
 ### Programming Languages
