@@ -6,6 +6,32 @@ theme: jekyll-theme-minimal
 custom_styles: >
   <style>
     h1.site-title {
-      font-size: 1.8rem;
+      font-size: 1.5rem;
+    }
+    .contact-info {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .contact-info ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    .contact-info li {
+      margin: 5px 0;
+    }
+    .contact-info a {
+      text-decoration: none;
+      color: #007acc;
+    }
+    .contact-info a:hover {
+      text-decoration: underline;
     }
   </style>
+
+extra_header: |
+  <div class="contact-info">
+    <ul>
+      <li><strong>Email:</strong> <a href="mailto:abdelrahman.zeidan@outlook.com">abdelrahman.zeidan@outlook.com</a></li>
+      <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/abdelrahman-zeidan">linkedin.com/in/abdelrahman-zeidan</a></li>
+    </ul>
+  </div>

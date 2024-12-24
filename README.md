@@ -1,11 +1,4 @@
-# Abdelrahman Zeidan | Software Engineer
-
----
-
-## Contact
-- **Email**: [abdelrahman.zeidan@outlook.com](mailto:abdelrahman.zeidan@outlook.com)
-- **LinkedIn**: [linkedin.com/in/abdelrahman-zeidan](https://linkedin.com/in/abdelrahman-zeidan)
-- **Portfolio**: [GitHub Pages](https://AbdelrahmanZeidan5.github.io)
+# Software Engineer
 
 ---
 
