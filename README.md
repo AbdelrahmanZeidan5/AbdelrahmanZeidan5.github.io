@@ -1,36 +1,52 @@
-# Software Engineer
+## Software Engineer
+
+---
+
+4 years of experience in backend, full-stack, and AI solutions. Skilled in building scalable web applications, developing RESTful APIs, and deploying on cloud platforms like AWS and GCP. Expertise in generative AI, large language models (LLMs), and delivering efficient, high-quality software.
 
 ---
 
 ## Education
-- <span style="font-size: 1rem;">**M.S. Computer Science** | Northeastern University (_December 2024, GPA: 4.0/4.0_)</span>
-- <span style="font-size: 1rem;">**B.E. Engineering** | London South Bank University (_June 2018, GPA: 4.0/4.0_)</span>
+
+<div style="font-size: 0.85rem; line-height: 1.5;">
+  <p><strong>M.S. Computer Science</strong> | Northeastern University
+  <span style="font-style: italic;">December 2024, GPA: 4.0/4.0</span></p>
+
+  <p><strong>B.E. Engineering</strong> | London South Bank University
+  <span style="font-style: italic;">June 2018, GPA: 4.0/4.0</span></p>
+</div>
 
 ---
-
-
 
 ## Technical Skills
-### Programming Languages
-- 🐍 Python
-- ☕ Java
-- 📜 JavaScript / TypeScript
-- 💾 SQL
 
-### Frameworks & Libraries
-- 🌐 Django, Flask, FastAPI
-- ⚛️ React, Node.js
-- 🤖 LangChain, TensorFlow, PyTorch, LLMs, Gen AI
+<div style="font-size: 0.85rem; line-height: 1.8; margin-bottom: 1.5rem;">
+  <strong>Programming Languages: </strong>
+  Python, TypeScript, JavaScript, Java<br>
 
-### Cloud & DevOps
-- ☁️ AWS, GCP
-- 🐋 Docker, Kubernetes
-- 🔧 CI/CD (Jenkins, GitHub Actions)
+  <strong>Frameworks & Libraries: </strong>
+  Django, Node.js, React, Flask, FastAPI<br>
 
-### Databases
-- 🗄️ PostgreSQL, MongoDB, MySQL
+  <strong>Cloud & DevOps: </strong>
+  AWS, GCP, Docker, Kubernetes, CI/CD<br>
+
+  <strong>Databases: </strong>
+  PostgreSQL, MySQL, MongoDB<br>
+
+  <strong>AI & Machine Learning: </strong>
+  LLMs, Gen AI, LangChain, TensorFlow, PyTorch<br>
+
+  <strong>Data Analysis: </strong>
+  Pandas, NumPy, Matplotlib<br>
+
+  <strong>Testing: </strong>
+  Unit Testing, Test-Driven Development (TDD)<br>
+</div>
 
 ---
+
+
+
 
 ## Projects
 ### Professional Projects
