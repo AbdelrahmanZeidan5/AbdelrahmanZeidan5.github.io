@@ -78,8 +78,8 @@
   - Built 10+ chatbots and virtual assistants using Rasa, Dialogflow, and Alexa.
   - Integrated chatbots with social media channels such as WhatsApp, Slack, Telegram, and Messenger.
   - Added Speech-to-Text and Text-to-Speech capabilities for enhanced interaction.
-  - [WhatsApp Chatbot Demo 1](https://drive.google.com/file/d/1-5yAYrXk9NvagxvKRrzJQb4P-N5A4_pT/view?usp=sharing)
-  - [WhatsApp Chatbot Demo 2](https://drive.google.com/file/d/1yT-O-bwGKGtxzFeHztt9bYBEM8qskPaH/view?usp=sharing)
+  - [WhatsApp Chatbot Demo](https://drive.google.com/file/d/1-5yAYrXk9NvagxvKRrzJQb4P-N5A4_pT/view?usp=sharing)
+  - [Web Chatbot Demo](https://drive.google.com/file/d/1yT-O-bwGKGtxzFeHztt9bYBEM8qskPaH/view?usp=sharing)
 
 
 - **Convo Studio**
