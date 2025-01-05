@@ -68,7 +68,7 @@
   AI platform using Generative AI and LLMs to automate medical transcription and healthcare workflows.
   - Designed an OCR algorithm that improved data extraction accuracy by 40%.
   - Integrated LangChain and LLMs into an AI assistant platform for task automation.
-  - [Buddy Official Website](https://neuralwave.ai/)
+  - [Demo](https://www.youtube.com/watch?v=OlNwMBevrJs)
 
 - **Extricator**
   - Increased document processing speed by 50% through multithreading and backend optimizations.
