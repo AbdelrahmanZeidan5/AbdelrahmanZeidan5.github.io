@@ -112,6 +112,7 @@
 - **Credit Approval Prediction System**
   - Developed and evaluated models (Random Forest, ANN, and SVM) to classify loan approvals using Kaggle's Credit Approval dataset.
   - Preprocessed imbalanced data with SMOTE and enhanced model accuracy using feature engineering and cross-validation.
+  - [GitHub Repository](https://github.com/AbdelrahmanZeidan5/Credit-Approval-Prediction-System)
 
 
 - **Library Management System**
@@ -120,9 +121,13 @@
 - **Movie Recommendation System**
   - Developed a personalized movie recommendation system using User-User CF, Item-Item CF, and Content-Based Filtering.
   - Leveraged cosine similarity and evaluated model accuracy with RMSE.
+  - [GitHub Repository](https://github.com/AbdelrahmanZeidan5/Movie-Recommendation-System)
 
 - **Data Analysis of Cardiac Arrest Incidents**
-  - Analyzed the NEMSIS dataset to uncover patterns in cardiac arrest cases, providing actionable insights for healthcare stakeholders.
+  - Collaborated with a healthcare team to analyze the NEMSIS dataset and uncover patterns in cardiac arrest cases.
+  - Investigated disparities in EMS response and outcomes between urban, suburban, and rural settings.
+  - Focused on epinephrine usage, response times, and Return of Spontaneous Circulation (ROSC) rates.
+  - Delivered actionable insights for stakeholders, including critical care physicians at Maine Health.
   - Note: This project involved sensitive data and is not publicly accessible due to privacy constraints.
 
 
