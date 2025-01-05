@@ -98,7 +98,8 @@
 
 
 - **Propaganda Technique Detection**
-  - Fine-tuned NLP models to identify propaganda techniques with 89% accuracy.
+  - Fine-tuned Hugging Face models like `facebook/bart-large-mnli` to identify propaganda techniques with 89% accuracy.
+  - Enhanced NLP performance through preprocessing, data augmentation, and model optimization.
   - [Model on Hugging Face](https://huggingface.co/karthikvarunn)
 
 
