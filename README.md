@@ -88,7 +88,7 @@
   - [Demo](https://drive.google.com/file/d/1JGJjOuo9QQtAMwOUQZK0xq-zL9VrEvRr/view?usp=sharing)
 
 - **HyperPM**
-  - Implemented backend APIs using Flask and resolved critical bugs to enhance system functionality and stability.
+  - Implemented backend APIs using FastAPI and resolved critical bugs to enhance system functionality and stability.
 
 - **HyperCap**
   - Built REST APIs using Node.js and implemented JWT for secure user authentication.
