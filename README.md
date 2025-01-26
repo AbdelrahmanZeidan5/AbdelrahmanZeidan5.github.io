@@ -71,7 +71,7 @@
   - [Demo](https://www.youtube.com/watch?v=OlNwMBevrJs)
 
 - **Extricator**
-  - Increased document processing speed by 50% through multithreading and backend optimizations.
+  - Implemented RabbitMQ to parallelize document processing, improving throughput, scalability, and system efficiency.
   - Developed APIs integrated with GCP services, ensuring seamless data flow and user interactions.
 
 - **Convo AI**
